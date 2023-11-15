@@ -1,0 +1,7 @@
+git config --global user.name "aashokrao"
+git config --global user.email "aashokrao@gmail.com"
+git clone "repor url"
+git add <filename>
+git commit -m "CommitMessage"
+git push origin <branchName>
+git pull
