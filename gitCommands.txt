@@ -15,3 +15,6 @@ if the remote branches not visible, then use
 git pull
 git branch -a --> now you will see the remote branches
 git checkout <branchName> --> to switch to the specified branch
+===========================
+checkout main branch and see the difference of the subbranches
+git diff branch1
