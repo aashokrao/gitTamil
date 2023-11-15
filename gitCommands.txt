@@ -9,3 +9,9 @@ git pull
 git remote add origin https://github.com/aashokrao/gitTamil1.git
 git branch --> to display the branches
 git branch -M main --> To rename the main branch name
+=============================
+git branch -a --> to view all the local and remote branches
+if the remote branches not visible, then use
+git pull
+git branch -a --> now you will see the remote branches
+git checkout <branchName> --> to switch to the specified branch
