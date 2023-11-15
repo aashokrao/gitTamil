@@ -5,3 +5,7 @@ git add <filename>
 git commit -m "CommitMessage"
 git push origin <branchName>
 git pull
+================================================
+git remote add origin https://github.com/aashokrao/gitTamil1.git
+git branch --> to display the branches
+git branch -M main --> To rename the main branch name
